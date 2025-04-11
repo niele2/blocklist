@@ -7,7 +7,7 @@ This repo contains a minimized PowerShell script that downloads a public blockli
 ## 💡 Features
 
 - Run as Administrator check
-- Downloads from [someonewhocares.org](https://someonewhocares.org/hosts/zero/hosts)
+- Downloads from [github.org](https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/refs/heads/master/domains/blacklist/activation.txt)
 - Merges with your existing `hosts` file
 - Deduplicates entries
 - Creates a backup of the original
